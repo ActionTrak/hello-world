@@ -1,4 +1,4 @@
 # hello-world
-Just some repository
+This is the "real deal", folks!
 
 Here are some edits in the project
